@@ -1,6 +1,7 @@
 [
+  "hubot-qrank",
   "hubot-tenki",
-    "hubot-hello-world",
+  "hubot-hello-world",
   "hubot-diagnostics",
   "hubot-help",
   "hubot-google-images",
