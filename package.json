@@ -23,6 +23,6 @@
     "hubot-tenki": "github:yousan/hubot-tenki"
   },
   "engines": {
-    "node": "4.x"
+    "node": "6.x"
   }
 }
