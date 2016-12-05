@@ -28,5 +28,20 @@
       }
     },
     "channel": "random_snowboarding"
+  },
+  "会津天気":
+  {
+    "url":"http://www.jma.go.jp/jp/radame/index.html?areaCode=205",
+    "options": {
+      "shotOffset": {
+        "left": 31,
+        "top": 342
+      },
+      "shotSize": {
+        "width": 551,
+        "height": 455
+      }
+    },
+    "channel": "bot"
   }
 }
