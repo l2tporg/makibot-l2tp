@@ -43,5 +43,20 @@
       }
     },
     "channel": "mtg_aizu"
+  },
+    "アルツ":
+  {
+      "url":"https://www.alts.co.jp/",
+    "options": {
+      "shotOffset": {
+        "left": 234,
+        "top": 595
+      },
+      "shotSize": {
+        "width": 617,
+        "height": 147
+      }
+    },
+    "channel": "random_snowboarding"
   }
 }
