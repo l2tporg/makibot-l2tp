@@ -20,7 +20,7 @@
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^4.1.0",
     "hubot-tenki": "github:yousan/hubot-tenki",
-    "hubot-webshot": "github:naname000/hubot-webshot#a378e721d89d7ad56f51a06a3e439843f1a5b0d3"
+    "hubot-webshot": "github:naname000/hubot-webshot"
   },
   "engines": {
     "node": "6.x"
